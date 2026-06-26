@@ -140,10 +140,7 @@ http://localhost:3000
 
 ---
 
-##  Screenshots (Optional)
 
-
----
 
 ##  Resume Description
 
